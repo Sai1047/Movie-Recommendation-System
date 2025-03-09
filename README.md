@@ -83,4 +83,4 @@ This recommendation system provides a useful tool to help users discover movies 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/sai1047/movie-recommendation-system.git
