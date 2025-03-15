@@ -3,7 +3,6 @@
 ## Introduction
 
 Recommendation systems are essential for helping users discover content that aligns with their interests. This project implements a **Film Recommendation System** using the **MovieLens** dataset. The goal is to apply **collaborative filtering** techniques to identify similarities between films and generate personalized recommendations based on user preferences.
-
 By calculating a **similarity matrix** and utilizing user ratings, the system recommends movies similar to those the user has highly rated and suggests movies the user hasn't seen but is likely to enjoy.
 
 ## Methodology
