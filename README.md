@@ -76,7 +76,6 @@ This recommendation system provides a useful tool to help users discover movies 
 - Python 3.x
 - Pandas
 - Numpy
-- Scikit-learn
 
 ## Installation
 
